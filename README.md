@@ -21,6 +21,5 @@ Hacker News App in Flutter.
 
 - Network:
   - [Dio](https://github.com/flutterchina/dio)
-  - [Retrofit](https://github.com/trevorwang/retrofit.dart)
 - UI:
   - [webview_flutter](https://pub.dev/packages/webview_flutter)

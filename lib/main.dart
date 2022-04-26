@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/route_manager.dart';
-import 'package:hackernewsapi/screens/homescreen.dart';
+import 'package:hackernewsapi/VIew/homescreen.dart';
 
 void main() {
   runApp(ProviderScope(child: hackernews()));

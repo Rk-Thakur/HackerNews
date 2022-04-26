@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/get.dart';
+import 'package:hackernewsapi/VIew/newsdetailscreen.dart';
 import 'package:hackernewsapi/provider/newprovider.dart';
 import 'package:hackernewsapi/provider/storyitemprovider.dart';
-import 'package:hackernewsapi/screens/newsdetailscreen.dart';
 
 class HomeScreen extends StatelessWidget {
   final count = 0;

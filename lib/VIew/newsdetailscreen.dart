@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/get.dart';
+import 'package:hackernewsapi/VIew/website.dart';
 import 'package:hackernewsapi/model/storyitems.dart';
 import 'package:hackernewsapi/provider/storyitemprovider.dart';
-import 'package:hackernewsapi/screens/website.dart';
 
 class detailScreen extends StatelessWidget {
   late storyitems story;

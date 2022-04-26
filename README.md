@@ -1,16 +1,26 @@
-# hackernewsapi
+# HackerNews
 
-A new Flutter project.
+Hacker News App in Flutter.
 
-## Getting Started
+<img src="assets/images/first.jpg" alt="first" width="50%"/>
+<img src="assets/images/second.jpg" alt="second" width="50%"/>
 
-This project is a starting point for a Flutter application.
+## Build with
 
-A few resources to get you started if this is your first Flutter project:
+- Api:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  - [API](https://github.com/HackerNews/API)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Architecture:
+
+  - [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
+
+- State Management:
+
+  - [Riverpod](https://riverpod.dev)
+
+- Network:
+  - [Dio](https://github.com/flutterchina/dio)
+  - [Retrofit](https://github.com/trevorwang/retrofit.dart)
+- UI:
+  - [webview_flutter](https://pub.dev/packages/webview_flutter)
